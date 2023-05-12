@@ -1,14 +1,14 @@
 # Feature-Selection-Techniques
 
-#AIM:
+# AIM:
 
      To perform the various feature selection techniques on a dataset and save the data to a file.
      
-#EXPLANATION:
+# EXPLANATION:
 
      Feature selection is to find the best set of features that allows one to build useful models. Selecting the best features helps the model to perform well.
      
-#ALGORITHM:
+# ALGORITHM:
 
       Step 1: Read the given data.
       
@@ -18,7 +18,7 @@
       
       Step 4: Save the data to the file.
 
-#CODE:
+# CODE:
 
 #Titanic_dataset.csv
 
@@ -294,7 +294,7 @@ plt.title("Feature importance using Lasso Model")
 
 plt.show()
 
-#OUTPUT:
+# OUTPUT:
 
 ![image](https://github.com/akshitha-ks/Feature-Selection-Techniques/assets/123535064/886e446e-ee69-477e-acab-f69d11d5547a)
 
@@ -334,6 +334,6 @@ plt.show()
 
 ![image](https://github.com/akshitha-ks/Feature-Selection-Techniques/assets/123535064/73e144e0-710f-4168-ba5d-f66e183c3e6f)
 
-#RESULT:
+# RESULT:
 
       Thus, the Feature Selection for the given datasets had been executed successfully.
